@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/dist
+*.local
+*.log
+.idea
+/.vite-inspect
+
+/coverage
+/public/docs
+/cypress/videos/*
